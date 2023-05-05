@@ -23,7 +23,7 @@ body {
     position: relative;
     top: 145px;
     display: inline-block;
-    background: #FF3399;
+    background: #ff69b4;
 } 
 
 #tabela1 h1{
@@ -32,7 +32,7 @@ body {
     top: 500px;
     border: 1px solid;
     border-color: #ffffff ;
-    color: #FFCCE6;
+    color: #ffe0ff;
     padding: 20px 250px;
     background-color:  #151616;
     font-family: 'Open Sans', sans-serif;
@@ -44,9 +44,9 @@ body {
     top: 585px;
     border: 1px solid;
     border-color:  #151616;
-    color: #FF3399;
+    color: #ffa8d9;
     padding: 20px 197px;
-    background-color:#FFCCE6;
+    background-color:#ffe0ff;
     font-family: 'Open Sans', sans-serif;
 }
 
@@ -57,7 +57,7 @@ body {
     border: 1px solid  #ffffff; 
     color:  #202221;
     padding: 20px 280px;
-    background-color:#FF66B3;
+    background-color: #ffa8d9;
     font-family: 'Open Sans', sans-serif;
 }
 
@@ -65,7 +65,7 @@ body {
     position: absolute;
     left: 150px;
     top: 100px;
-    border: 1px solid #FF66B3;
+    border: 1px solid #c33b80;
     background-image: url("midias/lider.jpg");
     background-size: cover;
     padding: 200px 170px;
@@ -78,7 +78,13 @@ body {
     color:   #191a19;
     font-size: 35px;
     font-family: 'League Spartan', sans-serif;
+    text-shadow: 
+        -1px -1px 0px #ffe0ff, 
+        -1px 1px 0px #ffe0ff,                    
+        1px -1px 0px #ffe0ff,                  
+        1px 0px 0px #ffe0ff;
 
+}
 }
 
 #logo {
@@ -123,7 +129,7 @@ body {
     top: 700px;
     border: 1px solid;
     border-color: #ffffff ;
-    color: #FFCCE6;
+    color:  #ffe0ff;
     padding: 20px 75px;
     background-color:  #151616;
     font-family: 'Open Sans', sans-serif;
@@ -135,9 +141,9 @@ body {
     top: 790px;
     border: 1px solid;
     border-color:  #151616;
-    color: #FF3399;
+    color:  #ffa8d9;
     padding: 20px 22px;
-    background-color:#FFCCE6;
+    background-color:#ffe0ff;
     font-family: 'Open Sans', sans-serif;
 }
 
@@ -148,7 +154,7 @@ body {
     border: 1px solid  #ffffff; 
     color:  #202221;
     padding: 20px 105px;
-    background-color:#FF66B3;
+    background-color:#ffa8d9;
     font-family: 'Open Sans', sans-serif;
 }
 
@@ -156,7 +162,7 @@ body {
     position: absolute;
     left: 80px;
     top: 300px;
-    border: 1px solid #FF66B3;
+    border: 1px solid #c33b80;
     background-image: url(midias/lider.jpg);
     background-size: cover;
     padding: 150px 120px;
