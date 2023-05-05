@@ -103,9 +103,9 @@ footer{
 @media screen and (max-width: 500px) {
 
 body {
-    background-image: url(midias/fundo.png);
+    background-image: url(midias/fundo2.png);
     background-repeat: no-repeat;
-    background-size: 1000px 1100px;
+    background-size: 1500px 1100px;
     height: 1000px;
 }
 
@@ -172,11 +172,11 @@ body {
 
 }
 
-#logo {
+.logo {
     position: absolute;
-    left: 50px;
+    left: 40px;
     top: -10px;
-    background-image: url(midias/logo.png);
+    background-image: url(/midia/logo.png);
     background-size: cover;
     padding: 150px 150px;
 
