@@ -81,7 +81,7 @@ body {
 
 }
 
-#logo {
+.logo {
     position: absolute;
     left: 750px;
     top: 10px;
