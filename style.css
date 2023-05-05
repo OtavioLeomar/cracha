@@ -85,7 +85,7 @@ body {
     position: absolute;
     left: 750px;
     top: 10px;
-    background-image: url("midias/logo.png");
+    background-image: url(midias/logo.png);
     background-size: cover;
     padding: 200px 190px;
 }
